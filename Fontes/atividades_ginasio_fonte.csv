@@ -1,0 +1,31 @@
+id_atividade,tipo_atividade,nome_atividade,duracao_minutos,calorias_medias_queimadas,nivel_dificuldade,nivel_intensidade,objetivo_treino
+1,Aula de grupo,Aula de Alongamentos,36,548,Alto,Alta,Relaxamento
+2,Aula de grupo,Aula de Boxe,58,220,Alto,Média,Flexibilidade
+3,Aula de grupo,Aula de Cardio,52,530,Alto,Baixa,Resistência
+4,Aula de grupo,Aula de Crossfit,37,351,Alto,Média,Bem-estar
+5,Aula de grupo,Aula de Funcional,31,543,Médio,Média,Ganho de massa
+6,Aula de grupo,Aula de HIIT,57,476,Baixo,Média,Condicionamento físico
+7,Aula de grupo,Aula de Musculação,58,435,Baixo,Baixa,Flexibilidade
+8,Aula de grupo,Aula de Pilates,56,369,Alto,Média,Condicionamento físico
+9,Aula de grupo,Aula de Yoga,44,250,Alto,Baixa,Flexibilidade
+10,Aula de grupo,Aula de Zumba,34,506,Alto,Baixa,Perda de peso
+11,Circuito de treino,Circuito de Bíceps,26,523,Baixo,Média,Ganho de massa
+12,Circuito de treino,Circuito de Costas,45,595,Baixo,Média,Resistência
+13,Circuito de treino,Circuito de Pernas,47,616,Alto,Baixa,Relaxamento
+14,Circuito de treino,Circuito de Peito,34,284,Médio,Baixa,Resistência
+15,Circuito de treino,Circuito de Ombros,37,637,Médio,Média,Condicionamento físico
+16,Circuito de treino,Circuito de Abdómen,41,355,Médio,Baixa,Definição muscular
+17,Circuito de treino,Circuito de Cardio,37,411,Médio,Média,Resistência
+18,Circuito de treino,Circuito de Corpo inteiro,33,520,Médio,Alta,Resistência
+19,Circuito de treino,Circuito de Glúteos,44,545,Baixo,Baixa,Ganho de massa
+20,Circuito de treino,Circuito de Resistência,34,302,Médio,Baixa,Resistência
+21,Circuito de treino,Circuito de Tríceps,47,629,Baixo,Baixa,Bem-estar
+22,Circuito de treino,Circuito de Flexibilidade,34,314,Baixo,Alta,Perda de peso
+23,Circuito de treino,Circuito de Potência,43,378,Alto,Alta,Flexibilidade
+24,Circuito de treino,Circuito de Força,36,641,Alto,Alta,Perda de peso
+25,Circuito de treino,Circuito de Equilíbrio,46,739,Alto,Média,Perda de peso
+26,Circuito de treino,Circuito de Explosão,47,384,Baixo,Média,Perda de peso
+27,Circuito de treino,Circuito de Mobilidade,35,752,Alto,Média,Relaxamento
+28,Circuito de treino,Circuito de Estabilidade,24,348,Médio,Alta,Flexibilidade
+29,Circuito de treino,Circuito de Hipertrofia,20,711,Alto,Baixa,Bem-estar
+30,Circuito de treino,Circuito de Definição,45,752,Alto,Média,Definição muscular

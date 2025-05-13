@@ -1,0 +1,8 @@
+id_campanha,nome,tipo,data_inicio,data_fim,descricao,publico_alvo
+C001,Campanha de Boas-Vindas,Aquisição,1/1/2025,12/31/2025,Acesso gratuito à EasyFit durante a primeira semana para novos clientes.,Novos clientes
+C002,Desafio 3 Semanas de Circuitos,Fidelização,2/1/2025,2/28/2025,Incentivo à  frequência regular com o objetivo de consolidar hábitos de treino.,Clientes ativos
+C003,Circuito Experiência,Personalização,3/1/2025,3/31/2025,Promoção de experimentação de novos circuitos criados por outros instrutores.,Clientes regulares
+C004,Leva um Amigo,Aquisição,4/1/2025,4/30/2025,Clientes podem trazer um amigo gratuitamente durante um número limitado de dias.,Todos os clientes
+C005,Desconto por Frequência,Fidelização,5/1/2025,5/31/2025,Oferece desconto na mensalidade se o cliente cumprir um número mínimo de presenças no mês.,Clientes ativos
+C006,Plano de Regresso,Recuperação,6/1/2025,6/30/2025,Campanha para clientes inativos há mais de 60 dias com semana gratuita e novo plano personalizado.,Clientes inativos
+C007,Campanha de Feedback com Recompensa,Engagement,7/1/2025,7/31/2025,Recompensa por preencher avaliações de treinos e aulas com acesso a treinos exclusivos.,Todos os clientes

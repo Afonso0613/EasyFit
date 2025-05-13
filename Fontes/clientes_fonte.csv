@@ -1,0 +1,101 @@
+id_cliente,nome,email,password_sha256,altura_cm,peso_kg,profissao,data_nascimento
+1,Rita Lima,tcardoso@example.net,9cdd87d170fb9227db6c6c4c8840a6a13e502fe1cbb2026b0424bbbeb286855c,188,58,Estudante,9/18/1980
+2,Salvador Vieira,erica10@example.org,a5523bffc5331c394dca52c608ecff4ce2dd3ae4af2473fe6923e25c2842a514,178,73,Cozinheiro,8/16/1987
+3,Melanie Figueiredo,festeves@example.com,2fe1e7708b141e46e583c3b3092a92775655bb83d87908cd4d80ddeccf5b71d2,164,50,Designer,4/19/1967
+4,Afonso Figueiredo,valentinacunha@example.org,4502c30db76b9285b4bae55acfef3eea13415de870020ccb1c1a5d19ce3b97dd,192,93,Engenheiro,5/23/1998
+5,Fernando Carvalho-Carneiro,paivasalome@example.com,4490df250e496158c6be42bc77eaedce4ecfa5226244bfab7d297cfbe53d3f77,157,57,Vendedor,10/9/1995
+6,Pilar Monteiro,icardoso@example.net,1ff8004ebffc9c57a432b752db816c1eeb7be84630b77fdb76e6389ae3f300fa,170,73,Motorista,12/9/1977
+7,Marco Macedo,mbrito@example.org,d5160cabf1670c305909e89d70f8a20771a21de876fd8495111f469316e0b5ee,188,60,Arquiteto,12/3/2003
+8,Samuel Pinheiro,andrebranco@example.org,a35b0ea550b25e9a5cd2d73ae656fa770694011d49cef6a9eae7c978f3d98399,168,100,Designer,9/19/2006
+9,Benedita Pereira,garciaalice@example.com,1037b7d3e5f4e6112360d1697a074c2b8525b2ba3740f899eed6395b1ae57055,172,66,Enfermeiro,8/2/1974
+10,Erica Esteves,rocharenata@example.com,3ffb2e5bad1a92a8b43510ddedd809ca61d8fc7da00b662a69bfa0fe68f29da2,160,57,Professor,5/2/1993
+11,Benjamim Carvalho Magalh„es,marcio59@example.com,5f20009ee52b957f6bcb6cec092a20065defb608cc2dcc9134d7dcaca6cbc486,160,84,Dentista,8/21/1994
+12,Luciana Henriques,nevesafonso@example.com,8e8564618dfeed7a1cbac70188cbd04f3789c6f5120fed800199ae1dce53e5fb,173,84,Contabilista,4/5/1976
+13,Yara Soares,campossantiago@example.com,c5ac94142a4a24a8090537edd64ce1d5182cddda0b32ce2d659c83a8fbf52c89,185,82,Bombeiro,12/15/1962
+14,Erica da Cruz,ruben51@example.org,0378062ea0e8a9ff0a2f29675554ecc6a12779dc76b6a8842cdc9ecf904b6698,189,108,Mec‚nico,12/16/1955
+15,Benedita Rita Coelho,patriciajesus@example.net,ac888f21d6c36f3c605448bdc4fb11d85237ea1f141444f92757a4ab8a5524d4,173,54,Designer,11/24/1988
+16,Valentim Henriques,goncalo16@example.net,45964b72f3eef7f683e4e2480ff6b84e0c0e12a488b52126cdff9cc1cf909175,152,91,Estudante,11/13/1974
+17,Tom·s Amorim Miranda,kevimsoares@example.net,da66620a2e00dc2998661476c1a0598c721f4f9bbb54f232cee27db5d4cc2a87,171,88,PsicÛlogo,1/14/1983
+18,Lucas Matias,madalenamonteiro@example.net,bcc6340b3cbbcd9ca79dd0273bfce85ee771ac1a759044d6e1223de418e98c1f,151,107,PsicÛlogo,9/18/2006
+19,Paulo Barbosa,azevedomatilde@example.net,8a1d2cd753795a9e0eb0a2c5225bc653ffffde455eaf627b21210ec652cc8a4e,173,90,Estudante,1/13/1971
+20,Miguel Figueiredo,kevim49@example.com,c380123bba836d4126c51696c7334b47b70bd054281cefc5fb19ae55937f20cc,193,77,Bombeiro,2/24/1970
+21,Leonardo Magalh„es,kcosta@example.com,07c32956a9badc2f7ab4f1c6538c80333fdd8b55eed0d8d15cbdc4582a7f68a2,179,56,Vendedor,4/7/1966
+22,Filipa Baptista,naiara59@example.net,ac5f0a506b3b9b015cc48d777735d70a56ac463d0f56589fd60429f5c325a006,187,58,MÈdico,7/26/1970
+23,Mauro Ferreira,matosjessica@example.org,07ab2b48bb4727d494aea957d5fcb3873143d7c7671f403fc06d3101ce6570dc,151,57,Engenheiro,2/5/1999
+24,Paulo Melo-Antunes,obrito@example.com,05f48c3c890a420651d311546d90fdaab0b576099c3916bdfe08c32ce3f03d98,170,61,PsicÛlogo,9/24/1991
+25,Salvador Mota,matiasmelissa@example.org,410f00b753f6cc53403f6e36a3d6c1147c57ffd7698e4436a9635adc3879ab1f,182,83,Enfermeiro,10/21/1964
+26,Nair Nogueira,xmota@example.com,89422310165fb43b4987ca18994d6666ebb54fa1c168b3c280801a2c5b7cad72,161,82,PsicÛlogo,9/26/1956
+27,Renata Soraia Amaral,kpinheiro@example.net,17b6c719a87fed1680e34df1a9fb66c4683d2db8fa02b2965bfc82c0cfc73a62,171,97,PsicÛlogo,4/19/1982
+28,Carminho Santos,andradeluana@example.com,5323d25d5b7888fab8467448f8c24c7354b6340e47671023b320724a752426e8,193,104,PsicÛlogo,11/28/1974
+29,Santiago da Oliveira,qtorres@example.com,85d3043a79257f2baa92a3d8c56474216c2aa42dae9c5ba296caeb0e0e0b87a2,174,72,MÈdico,5/17/1954
+30,Bruno Mendes,melojoao@example.org,93b49acf4ddcb74aaa7992917a99fafec5a63573b381d6ace79208f310eeea25,198,73,MÈdico,5/6/1965
+31,Kevin Guerreiro,lvicente@example.org,19b4e8a088b109f310f1bb49855ba8cade4d128e18e36051caa3a2a51985578c,176,86,Enfermeiro,4/11/1971
+32,Manuel da GonÁalves,ritasilva@example.com,9b95f8e94f910bbd89429fdb707e83084d9130cd0d002b7a12c27a8a6c4fd91c,191,84,Professor,10/11/1987
+33,Bryan Miranda,bruna77@example.net,f424c2fe7d6346eb29e48c4f791d6e201e48ceaf4a0656f8f5c5ef344293e4e7,177,93,Professor,12/20/1964
+34,Noa Anjos,salmeida@example.org,e862fbba8e8f543822b7df502ea5db19562657cc6eeadb82719882c083af3551,165,89,Dentista,12/16/1980
+35,Nair Cunha,bruno32@example.org,8289e9e08d2f877982d0338ec2796ab60ae01c2ada46a834ea23356fc133ce29,164,71,MÈdico,10/13/1980
+36,DÈbora Amorim,monteirosamuel@example.com,b2c4362c915e3d3529bf2e39dec4576b60f789ae47b429352c93a21ec4165e7f,196,76,Bombeiro,5/26/2004
+37,L˙cia do Carvalho,pintovalentina@example.net,e285036464d2f0fe1dbbc495ba05a3e5d0cba73ecd0ed261bd2e7a096bd620b1,193,84,Motorista,10/3/1990
+38,Clara Campos,renatoamaral@example.org,ffd09503cc22d4f281305a694fab4f51fbc1275d5eecc9ad17c7f108012410d0,152,50,Advogado,9/19/1998
+39,Marcos Abreu Guerreiro,irina39@example.com,5127ca572e8af181647956e013f3328a45ae4f67fb4a40067d78187f3b696eb0,186,84,PolÌcia,10/29/2004
+40,Eduarda Domingues,francisco24@example.net,56e9993815846ff5a3534fe7a1e1a0c7f1f1ad22f21aa4eca3d92d626788c16c,156,86,PsicÛlogo,4/25/1983
+41,Daniel Costa,ema84@example.net,9c7b866c125c77013d268ce370fd84740c0667a218e30da06eb9a72fa63e19d9,170,96,Motorista,11/28/1984
+42,DÈbora Batista,angelo95@example.org,49d854a5c42a5c7095cb79ade2a9c7d7df36672005b2cf71474728b87b533392,158,63,Enfermeiro,8/26/1973
+43,Laura Amorim,ianjos@example.net,ba957a494f70db784d9785be930facad5eecbb009e4e20278d39cbf78d9f7b1c,188,52,Estudante,3/17/1969
+44,Renato Abreu Matos,igor25@example.com,2cdc86b74731bbcb4e1f5c49adcbe89412d8a5f2ee69bffcdd4ad0a1c58d7689,167,50,MÈdico,7/2/1980
+45,AntÛnio Cunha,duartepaiva@example.com,959d275e3f7ad77ed3636ab494bc53c0a2603b2bc8a2325e70301907c8db464b,153,54,Motorista,11/28/1957
+46,Caetana Antunes,liacarneiro@example.com,39269d0e2616a4a7e3414bdbe878eabedffa78fb8d00fdafa24fef8bb65cf778,174,75,PolÌcia,11/16/1972
+47,Bianca Melo Barros,baptistalisandro@example.com,3965dfc26e4b72f42d7f830136e82a1c3e66b5a052052492412211f709ce6569,163,104,Gestor,4/5/1990
+48,Sara Amaral,piresvitor@example.org,c021de7e52f81e262bf472003e24929c5642b9cf6975394f30c7d0e1bb0ebe05,199,63,Gestor,10/9/1975
+49,GonÁalo Ara˙jo,torresbianca@example.com,7d5e9d942c95ed59d472f92a57e8cd9d74e706e4cb241758e4c7f89b516b83c5,158,88,Professor,3/1/1964
+50,Emanuel Machado,figueiredoanita@example.net,ce8b3b13639e34f3e74b9f2d42545738a1d881214eefaff7e0404b25d3e3a69a,175,76,Designer,10/27/1994
+51,Bryan Azevedo,margarida05@example.com,7a5f87dbb420832204cdceee5cb924411e02729497d1a09c4d78d616c5b1a2c9,151,58,Motorista,10/11/1979
+52,Francisco Almeida,matiasduarte@example.org,02e89813b3e5114ee632f7087d3e87dbbbe98b892e4df61ba709d5faf8e5960d,169,64,Gestor,9/6/2004
+53,B·rbara Neto,dinis18@example.net,775082cded3896909b81222dcca4fddff3614ce2ae16074b33080b8c46d32462,177,64,Engenheiro,7/17/1987
+54,F·bio Barros,clopes@example.org,6ac85dc8ab5c34e66d5f1b5c60e61181a06ff50717ee7831e93ed8e68f630492,196,75,Estudante,1/5/2000
+55,Emma Garcia,umendes@example.com,8dd0725426cd58b87c5ea2deac6f20aa1d791c95576eb89fc46c1c36535da62c,156,91,Advogado,10/11/1980
+56,Tiago Pires,yasmintorres@example.org,6a334410074730da94fab2a7eae6f4c3feba79e393c5baf57afdea57198a7935,193,109,Dentista,6/18/1984
+57,Gabriel Pinheiro Silva,sandrocampos@example.net,e4fccf6de3c503b8ca62c11895ff2dd0cb2cfe72e36cadf2423c72c85b2c7ab7,157,62,Engenheiro,1/15/1970
+58,Gil Moura,pedro74@example.com,59d1e7f146dd522738c234111d2a7dd23a2815f9ecf37aa65d802c56cdaabd6f,196,100,Dentista,1/11/1990
+59,SalomÈ Pires,micaelalves@example.org,016a257e6e6e467ac12076237b7da9bf8359724e5be7867769fedccbab9c0cfb,184,81,Estudante,4/17/1988
+60,Xavier Matos,freitastome@example.net,dcc4cf0c83b944fb54dce02c5e507663053659685890e607b0875a8172cd14bd,163,88,Vendedor,3/6/1985
+61,Maria Andreia Torres,nmendes@example.net,f118a710f2de9435e6b9a240a0c60f87d99fc0ae72a7d3a734e5512e7d020367,166,98,Estudante,3/8/1994
+62,Flor Simıes-Magalh„es,alvaromiranda@example.net,8b32c614f4dcdd1395781cbce0570a89b84b114898d03f4423cb924df85a8183,185,101,Designer,11/3/1986
+63,Carlota AssunÁ„o,mneves@example.com,643730955d1525b38d55557d1cdbc5dfdae366dd72d4121a8f4a5106811a78c5,199,81,Professor,9/17/1993
+64,Madalena Carneiro,bryanmartins@example.net,a0d011514a091f0f170ddab5f9d0d994dffc3b3983939bf78dd3d0f8f2309f47,189,53,Arquiteto,4/1/1970
+65,Vicente Freitas,ritanunes@example.org,c359e53a5abcf68026cf74ac415c8048ef2c74b9acc83c3965cf41e23bf37951,153,79,Vendedor,9/13/1979
+66,Miriam Carvalho,yasmin92@example.com,19894dd6632f08839d9e1790f836363b8bb14ef045dfbc54784a0dc6b4f5481a,151,86,FarmacÍutico,5/7/1975
+67,SalomÈ Jesus,angelo59@example.com,e1a3ffb951f8d3fa5ab2450bb0a3b0c5fddf47aa02646b95d1dae595ee22a414,155,72,Arquiteto,9/9/1984
+68,Am·lia Mota,guilherme76@example.net,ee16bcd2d4e234e2f7967a12d0c2abc65bef0f24df16eb534e48ba6899056e13,191,88,Professor,10/13/1966
+69,Lorena Loureiro,juliaalves@example.org,c9b7842065246fe46a6b4597f82fff54494f0f5451197f74670730467525692a,153,94,PolÌcia,2/6/1963
+70,Miguel Reis,lucia58@example.org,a4e6e399ab54096da3fee65dd0ddcd1c3e23ff5821ff831d19407b0d0ecb85d9,178,64,FarmacÍutico,1/7/1986
+71,¡Ålvaro Paiva-Vieira,alvesalexandre@example.com,133dcf589c48ef85d2027a376e01797ca9c71b4075da6d824dc2ceff28359aeb,167,92,Contabilista,10/3/1971
+72,Gabriela Ramos,martimribeiro@example.org,78b0d4e6f15d9a8c25b9928ad2c9996ea8d31994d357ceda134dc284b66a790f,175,78,Engenheiro,9/15/1963
+73,Sara Soares,rafael61@example.net,e6e108aab4598f530421ce29b0df5534e25061292f1271ce1242a94719016644,193,85,Vendedor,4/24/1983
+74,Margarida Campos,mara16@example.com,f8f1ffddc9bd2f32dd235dbc3d1109b076a1f60e6bf816a959edd9577fa71a97,183,62,Gestor,12/12/1971
+75,Mafalda do Vieira,martimgaspar@example.com,e40085f88e9791616f73330286e4f92287531ce9e1ac6cd3e6c9c5e7adc56b1f,159,81,Gestor,9/28/1990
+76,Valentina Oliveira,danielamorim@example.net,d1e20d41d2ad8a7e17625c7922bf7c780c09d560fdd5f5dd3b732143b6952420,185,56,Estudante,9/21/1987
+77,Marcos Branco,xleite@example.net,1b55895966dd9c16373c86e8ca50a144d4bd6de9213f8a9583b47df51cbfdb5a,163,108,PsicÛlogo,5/21/1994
+78,Teresa Sousa,madalenamagalhaes@example.net,c1d902b8a1050fcc766c0119c8bd09b29cd9019b407f26098557a433c050b637,180,100,MÈdico,3/5/2003
+79,AndrÈ Santos,cruzmateus@example.com,efa3fc8b4b63001a5c0ce5c9d5f0ff6a20f19956e809e5902b1a5d7e7505656e,197,71,Professor,12/21/1963
+80,L˙cia Pinheiro,helena93@example.org,8ce8600cce2f85c8b0fcd6a8efdd725abcb61d1c1b88812aa9a1c17769209cf5,164,77,Gestor,12/1/1979
+81,¡Ålvaro Fonseca,ucardoso@example.org,7f01958479768293ec2ec4f6ead246dba64e262a5ef7f71087d75166028fbf6d,157,51,Bombeiro,10/15/1956
+82,Enzo do Ara˙jo,lopessandro@example.com,be8ec1c7933b37a1681fe46cd24168d605acf1ac6a1a87c0ca6e9ef46e947376,163,91,Enfermeiro,5/27/1990
+83,Camila Alves Nunes,diegoaraujo@example.com,e47bdbb7c281c7f088fc507bc9510cf35a352ff364c3908c06d43c92ee91f4bf,172,94,Enfermeiro,9/13/1995
+84,Tiago Martins,martinsmartim@example.org,9f18dbe3d070c6a8a136e1f82bea8b6769391f89afd0a24bca66a4c68ecca25a,189,106,Designer,9/19/1998
+85,Edgar Carneiro Cruz,kevimgoncalves@example.org,671b054d98e8ac2fdbacacbed0ef5738cf2d50a3760955102ded74551527d76f,170,102,Designer,1/4/1981
+86,Erica Domingues,nlopes@example.com,a86c41393aad84535037fb84c42b0337b6fff4dcf0dedb5600ea66e237d1ec29,165,55,Engenheiro,8/27/1981
+87,Gabriela Alves,nunescarminho@example.org,bb76eee6231de6a5299bab4bd7b38fd93ddd8e98d309c57f0dd3717deaa185e4,194,77,Dentista,12/17/1977
+88,Cristiano Ramos,zpinto@example.org,bd7cacc60c22fd1be92d6517672eacb74732a3f346d65a39867237a9b987897a,167,77,Gestor,2/18/1958
+89,Eva do Ribeiro,guerreironair@example.org,692b0b709e8a285a9838ac16fe421d75c0a5b0307d8641bcc8585d252e63fecf,196,93,Gestor,9/30/2002
+90,F·bio Coelho,mirandamatilde@example.com,215ca8b4c538e40cc3e21f103ad42d3e1ae565df18c4eba53779b3fa754e6423,173,93,Engenheiro,2/5/1964
+91,Enzo Cardoso,ruisantos@example.net,db2b3676b452ac0de5c4fd18e35f604515f9177d5af17f68a5c0dd3bd136e81b,175,69,Estudante,8/13/1962
+92,Angela Abreu,pinheirofrancisca@example.net,cc044514e6ecaa3bd7c374fc2792c1fa8296fffcd4ea72a4763a52348b9ffea2,174,79,Professor,9/9/1996
+93,Miguel Borges,ccastro@example.net,b0e0f699d396ea0b0eff8507a745782ef692733a017ed84f5d1d2b3db577e947,194,60,Estudante,4/13/1970
+94,Isabela Carvalho,manuel54@example.com,c95d743f4299ff2667d6fe9a85b8372daf82724e280a9a47066873e7f789bbe3,190,107,PolÌcia,6/12/1978
+95,Erica de Fonseca,afonso09@example.com,695af3b54cb5846784eafcbe5258088e619f3aac3f47817ece62e67af0a34d7e,178,104,PsicÛlogo,10/9/1959
+96,LetÌcia Teixeira,barbosafrancisco@example.net,c97a45d22b10b279054086cb1dc4c390dd067f7a89460d3de5e22a838d3343a0,164,77,Arquiteto,4/13/1972
+97,Micael Leal,amaralrafael@example.net,633f689a6849edf381840c202409bafe93c880a80cd0f8c368b7b51ebc5bd9d8,194,74,Advogado,6/10/1978
+98, Maria Torres,barbarabatista@example.com,1df3b025aafa3a113e0158d79c01d967a9def60262f3af5c10367465370e5a09,150,88,Motorista,10/19/1959
+99,GonÁalo Moura,carlota72@example.com,7272f24421d0bd4a79a305ba3bf82994542b4c9cacdcdc42625d8145f7cb150d,174,82,Arquiteto,6/15/2005
+100,Bianca Leite,machadobianca@example.com,7048aec9733025e989ca80550ab790e729ab67d8132a7494ebdd085ebf3c3feb,156,50,Estudante,9/25/1998
