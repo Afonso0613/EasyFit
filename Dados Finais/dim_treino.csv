@@ -1,0 +1,21 @@
+﻿treino_sk,treino_id_atividade,treino_nome,treino_duracao_min,treino_calorias,treino_dificuldade,treino_objetivo,instrutor_nome
+1,11,Circuito de Bíceps,26,523,Baixo,Ganho de massa,Enzo Pacheco
+2,12,Circuito de Costas,45,595,Baixo,Resistência,Enzo Pacheco
+3,13,Circuito de Pernas,47,616,Alto,Relaxamento,Enzo Pacheco
+4,14,Circuito de Peito,34,284,Médio,Resistência,Leandro Amaral
+5,15,Circuito de Ombros,37,637,Médio,Condicionamento físico,Marcos Castro Carneiro
+6,16,Circuito de Abdómen,41,355,Médio,Definição muscular,Sérgio Pires
+7,17,Circuito de Cardio,37,411,Médio,Resistência,Sara Neto
+8,18,Circuito de Corpo inteiro,33,520,Médio,Resistência,Mário Jesus
+9,19,Circuito de Glúteos,44,545,Baixo,Ganho de massa,Sérgio Pires
+10,20,Circuito de Resistência,34,302,Médio,Resistência,Leandro Amaral
+11,21,Circuito de Tríceps,47,629,Baixo,Bem-estar,Pilar Cruz
+12,22,Circuito de Flexibilidade,34,314,Baixo,Perda de peso,Sara Neto
+13,23,Circuito de Potência,43,378,Alto,Flexibilidade,Kevin Araújo Simões
+14,24,Circuito de Força,36,641,Alto,Perda de peso,Sérgio Pires
+15,25,Circuito de Equilíbrio,46,739,Alto,Perda de peso,Ivan Carneiro
+16,26,Circuito de Explosão,47,384,Baixo,Perda de peso,Pilar Cruz
+17,27,Circuito de Mobilidade,35,752,Alto,Relaxamento,Anita Antunes
+18,28,Circuito de Estabilidade,24,348,Médio,Flexibilidade,Pilar Cruz
+19,29,Circuito de Hipertrofia,20,711,Alto,Bem-estar,Marcos Castro Carneiro
+20,30,Circuito de Definição,45,752,Alto,Definição muscular,Ivan Carneiro

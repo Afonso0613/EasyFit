@@ -1,0 +1,101 @@
+cliente_id,cliente_sk,cliente_nome,cliente_altura_cm,cliente_peso_kg,cliente_profissao,cliente_data_nascimento,cliente_faixa_etaria
+1,1,Rita Lima,188,58,Estudante,9/18/1980,30-44
+2,2,Salvador Vieira,178,73,Cozinheiro,8/16/1987,30-44
+3,3,Melanie Figueiredo,164,50,Designer,4/19/1967,45-59
+4,4,Afonso Figueiredo,192,93,Engenheiro,5/23/1998,18-29
+5,5,Fernando Carvalho-Carneiro,157,57,Vendedor,10/9/1995,18-29
+6,6,Pilar Monteiro,170,73,Motorista,12/9/1977,45-59
+7,7,Marco Macedo,188,60,Arquiteto,12/3/2003,18-29
+8,8,Samuel Pinheiro,168,100,Designer,9/19/2006,18-29
+9,9,Benedita Pereira,172,66,Enfermeiro,8/2/1974,45-59
+10,10,Erica Esteves,160,57,Professor,5/2/1993,30-44
+11,11,Benjamim Carvalho Magalhães,160,84,Dentista,8/21/1994,30-44
+12,12,Luciana Henriques,173,84,Contabilista,4/5/1976,45-59
+13,13,Yara Soares,185,82,Bombeiro,12/15/1962,60+
+14,14,Erica da Cruz,189,108,Mecânico,12/16/1955,60+
+15,15,Benedita Rita Coelho,173,54,Designer,11/24/1988,30-44
+16,16,Valentim Henriques,152,91,Estudante,11/13/1974,45-59
+17,17,Tomás Amorim Miranda,171,88,Psicólogo,1/14/1983,30-44
+18,18,Lucas Matias,151,107,Psicólogo,9/18/2006,18-29
+19,19,Paulo Barbosa,173,90,Estudante,1/13/1971,45-59
+20,20,Miguel Figueiredo,193,77,Bombeiro,2/24/1970,45-59
+21,21,Leonardo Magalhães,179,56,Vendedor,4/7/1966,45-59
+22,22,Filipa Baptista,187,58,Médico,7/26/1970,45-59
+23,23,Mauro Ferreira,151,57,Engenheiro,2/5/1999,18-29
+24,24,Paulo Melo-Antunes,170,61,Psicólogo,9/24/1991,30-44
+25,25,Salvador Mota,182,83,Enfermeiro,10/21/1964,60+
+26,26,Nair Nogueira,161,82,Psicólogo,9/26/1956,60+
+27,27,Renata Soraia Amaral,171,97,Psicólogo,4/19/1982,30-44
+28,28,Carminho Santos,193,104,Psicólogo,11/28/1974,45-59
+29,29,Santiago da Oliveira,174,72,Médico,5/17/1954,60+
+30,30,Bruno Mendes,198,73,Médico,5/6/1965,60+
+31,31,Kevin Guerreiro,176,86,Enfermeiro,4/11/1971,45-59
+32,32,Manuel da Gonçalves,191,84,Professor,10/11/1987,30-44
+33,33,Bryan Miranda,177,93,Professor,12/20/1964,60+
+34,34,Noa Anjos,165,89,Dentista,12/16/1980,30-44
+35,35,Nair Cunha,164,71,Médico,10/13/1980,30-44
+36,36,Débora Amorim,196,76,Bombeiro,5/26/2004,18-29
+37,37,Lúcia do Carvalho,193,84,Motorista,10/3/1990,30-44
+38,38,Clara Campos,152,50,Advogado,9/19/1998,18-29
+39,39,Marcos Abreu Guerreiro,186,84,Polícia,10/29/2004,18-29
+40,40,Eduarda Domingues,156,86,Psicólogo,4/25/1983,30-44
+41,41,Daniel Costa,170,96,Motorista,11/28/1984,30-44
+42,42,Débora Batista,158,63,Enfermeiro,8/26/1973,45-59
+43,43,Laura Amorim,188,52,Estudante,3/17/1969,45-59
+44,44,Renato Abreu Matos,167,50,Médico,7/2/1980,45-59
+45,45,António Cunha,153,54,Motorista,11/28/1957,60+
+46,46,Caetana Antunes,174,75,Polícia,11/16/1972,45-59
+47,47,Bianca Melo Barros,163,104,Gestor,4/5/1990,30-44
+48,48,Sara Amaral,199,63,Gestor,10/9/1975,45-59
+49,49,Gonçalo Araújo,158,88,Professor,3/1/1964,60+
+50,50,Emanuel Machado,175,76,Designer,10/27/1994,30-44
+51,51,Bryan Azevedo,151,58,Motorista,10/11/1979,45-59
+52,52,Francisco Almeida,169,64,Gestor,9/6/2004,18-29
+53,53,Bárbara Neto,177,64,Engenheiro,7/17/1987,30-44
+54,54,Fábio Barros,196,75,Estudante,1/5/2000,18-29
+55,55,Emma Garcia,156,91,Advogado,10/11/1980,30-44
+56,56,Tiago Pires,193,109,Dentista,6/18/1984,30-44
+57,57,Gabriel Pinheiro Silva,157,62,Engenheiro,1/15/1970,45-59
+58,58,Gil Moura,196,100,Dentista,1/11/1990,30-44
+59,59,Salomé Pires,184,81,Estudante,4/17/1988,30-44
+60,60,Xavier Matos,163,88,Vendedor,3/6/1985,30-44
+61,61,Maria Andreia Torres,166,98,Estudante,3/8/1994,30-44
+62,62,Flor Simões-Magalhães,185,101,Designer,11/3/1986,30-44
+63,63,Carlota Assunção,199,81,Professor,9/17/1993,30-44
+64,64,Madalena Carneiro,189,53,Arquiteto,4/1/1970,45-59
+65,65,Vicente Freitas,153,79,Vendedor,9/13/1979,45-59
+66,66,Miriam Carvalho,151,86,Farmacêutico,5/7/1975,45-59
+67,67,Salomé Jesus,155,72,Arquiteto,9/9/1984,30-44
+68,68,Amália Mota,191,88,Professor,10/13/1966,45-59
+69,69,Lorena Loureiro,153,94,Polícia,2/6/1963,60+
+70,70,Miguel Reis,178,64,Farmacêutico,1/7/1986,30-44
+71,71,Álvaro Paiva-Vieira,167,92,Contabilista,10/3/1971,45-59
+72,72,Gabriela Ramos,175,78,Engenheiro,9/15/1963,60+
+73,73,Sara Soares,193,85,Vendedor,4/24/1983,30-44
+74,74,Margarida Campos,183,62,Gestor,12/12/1971,45-59
+75,75,Mafalda do Vieira,159,81,Gestor,9/28/1990,30-44
+76,76,Valentina Oliveira,185,56,Estudante,9/21/1987,30-44
+77,77,Marcos Branco,163,108,Psicólogo,5/21/1994,30-44
+78,78,Teresa Sousa,180,100,Médico,3/5/2003,18-29
+79,79,André Santos,197,71,Professor,12/21/1963,60+
+80,80,Lúcia Pinheiro,164,77,Gestor,12/1/1979,45-59
+81,81,Álvaro Fonseca,157,51,Bombeiro,10/15/1956,60+
+82,82,Enzo do Araújo,163,91,Enfermeiro,5/27/1990,30-44
+83,83,Camila Alves Nunes,172,94,Enfermeiro,9/13/1995,18-29
+84,84,Tiago Martins,189,106,Designer,9/19/1998,18-29
+85,85,Edgar Carneiro Cruz,170,102,Designer,1/4/1981,30-44
+86,86,Erica Domingues,165,55,Engenheiro,8/27/1981,30-44
+87,87,Gabriela Alves,194,77,Dentista,12/17/1977,45-59
+88,88,Cristiano Ramos,167,77,Gestor,2/18/1958,60+
+89,89,Eva do Ribeiro,196,93,Gestor,9/30/2002,18-29
+90,90,Fábio Coelho,173,93,Engenheiro,2/5/1964,60+
+91,91,Enzo Cardoso,175,69,Estudante,8/13/1962,60+
+92,92,Angela Abreu,174,79,Professor,9/9/1996,18-29
+93,93,Miguel Borges,194,60,Estudante,4/13/1970,45-59
+94,94,Isabela Carvalho,190,107,Polícia,6/12/1978,45-59
+95,95,Erica de Fonseca,178,104,Psicólogo,10/9/1959,60+
+96,96,Letícia Teixeira,164,77,Arquiteto,4/13/1972,45-59
+97,97,Micael Leal,194,74,Advogado,6/10/1978,45-59
+98,98, Maria Torres,150,88,Motorista,10/19/1959,60+
+99,99,Gonçalo Moura,174,82,Arquiteto,6/15/2005,18-29
+100,100,Bianca Leite,156,50,Estudante,9/25/1998,18-29

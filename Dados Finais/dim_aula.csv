@@ -1,0 +1,11 @@
+﻿aula_id,aula_sk,aula_nome,aula_duracao_min,aula_calorias,aula_intensidade,aula_capacidade
+1,1,Aula de Alongamentos,36,548,Alta,40
+2,2,Aula de Boxe,58,220,Média,40
+3,3,Aula de Cardio,52,530,Baixa,40
+4,4,Aula de Crossfit,37,351,Média,40
+5,5,Aula de Funcional,31,543,Média,40
+6,6,Aula de HIIT,57,476,Média,40
+7,7,Aula de Musculação,58,435,Baixa,40
+8,8,Aula de Pilates,56,369,Média,40
+9,9,Aula de Yoga,44,250,Baixa,40
+10,10,Aula de Zumba,34,506,Baixa,40
