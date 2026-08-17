@@ -12,7 +12,7 @@
 
 **A dimensional Data Warehouse and decision-support system for EasyFit, a fictional gym**
 <br/>
-*Sistemas de Armazéns de Dados · Licenciatura em Engenharia Informática · 2024/2025*
+*Sistemas de Armazéns de Dados · Mestrado em Engenharia Informática · 2024/2025*
 
 </div>
 
@@ -20,9 +20,9 @@
 
 ## About the Project
 
-EasyFit is a modern gym built around self-guided training circuits and free-participation group classes. This project designs and implements a full **Decision Support System (DSS)** on top of a **Data Warehouse**, giving EasyFit's management team the tools to track client engagement, evaluate instructor performance, and personalize services based on real usage data.
+EasyFit is a modern gym built around self-guided training circuits and free-participation group classes. This project designs and implements a full **Decision Support System (DSS)** on top of a **Data Warehouse**, giving EasyFit's management team the tools to track client engagement, evaluate instructor performance and personalize services based on real usage data.
 
-The system was built end-to-end: requirements gathering, dimensional modelling, ETL pipeline, population, dashboarding, and two data mining applications (customer segmentation and a hybrid recommender system).
+The system was built end-to-end: requirements gathering, dimensional modelling, ETL pipeline, population, dashboarding and two data mining applications (customer segmentation and a hybrid recommender system).
 
 <br/>
 
@@ -76,9 +76,9 @@ Fontes de Dados → Staging Area (ETL) → Data Warehouse → Data Marts → Das
 ```
 
 - **Sources:** access control/check-in system, training & class management platform, CRM, mobile app feedback forms
-- **Staging Area:** validation, normalization, deduplication, and enrichment (e.g. derived visit duration)
+- **Staging Area:** validation, normalization, deduplication and enrichment (e.g. derived visit duration)
 - **Warehouse:** MySQL, organized into two thematic Data Marts — *Atividade do Cliente* and *Desempenho do Instrutor*
-- **Population:** Python notebooks (pandas + SQLAlchemy), modelled with BPMN, split into three subprocesses (dimensions → client activity facts → instructor performance facts), with referential-integrity, business-rule, and plausibility test suites
+- **Population:** Python notebooks (pandas + SQLAlchemy), modelled with BPMN, split into three subprocesses (dimensions → client activity facts → instructor performance facts), with referential-integrity, business-rule and plausibility test suites
 
 <br/>
 
@@ -99,7 +99,7 @@ Five Power BI dashboards, each built for a specific decision agent:
 ## Data Mining
 
 ### 🧩 Customer Segmentation
-K-Means clustering (k=6, chosen via elbow method + silhouette analysis) on visit frequency, session duration, calories, ratings, and demographic/physical attributes (age, BMI). Validated with Silhouette Score (0.135), Davies-Bouldin Index (1.777), and Calinski-Harabasz Score (12.668). Produced six interpretable client profiles, from *"Very Active & Engaged"* to *"Low Engagement & Dissatisfied"*, each with practical retention recommendations.
+K-Means clustering (k=6, chosen via elbow method + silhouette analysis) on visit frequency, session duration, calories, ratings and demographic/physical attributes (age, BMI). Validated with Silhouette Score (0.135), Davies-Bouldin Index (1.777), and Calinski-Harabasz Score (12.668). Produced six interpretable client profiles, from *"Very Active & Engaged"* to *"Low Engagement & Dissatisfied"*, each with practical retention recommendations.
 
 ### 🎯 Recommendation System
 A hybrid system combining:
@@ -130,7 +130,7 @@ Evaluated via leave-one-out cross-validation with Precision@3 / Recall@3 / MAP@3
 
 ## Team
 
-Group project developed by **Afonso Magalhães** and **Inês Silva**, for the "Sistemas de Armazéns de Dados" specialization profile, Universidade do Minho — May 2025.
+Project developed by **Afonso Magalhães**, for the "Sistemas de Armazéns de Dados" specialization profile, Universidade do Minho — May 2025.
 
 <br/>
 
